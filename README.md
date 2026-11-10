@@ -1,5 +1,8 @@
 # Repozitář pro potřeby robotiky založené na micro:bitu a desce Wukong
 # [https://tinyurl.com/vrcholkostek](https://tinyurl.com/vrcholkostek)
+## Pozdvánka na discord:
+![[Alternativní text](https://discord.com/invite/xpmZ4bJ)](../img/BrickHackers_discord.png)
+
 ## Gripper Claw \[ SMALL \]
 * Návod na sestavení: [gripper claw \[ small \].pdf](https://github.com/EmmetBrickHacker/wukong/blob/c5a5cd6d8c137ddfbe556b95daf43d70df52f177/gripper_claw_small/gripper%20claw%20%5B%20small%20%5D.pdf)
 * Ukázkový [kód pro MakeCode](https://makecode.microbit.org/S16564-90492-27631-39280)
