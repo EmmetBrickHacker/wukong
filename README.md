@@ -3,6 +3,12 @@
 ## Pozvánka na discord:
 [![https://discord.com/invite/xpmZ4bJ](./img/BrickHackers_discord.png)](https://discord.com/invite/xpmZ4b)
 
+## Užitečná rozšíření:
+**Postup:** V MakeCode klikněte na ozubené kolečko (vpravo nahoře) -> **Rozšíření**, do vyhledávacího pole zkopírujte jednu z níže uvedených adres a potvrďte.
+
+* :books: **[Number System Conversion](https://github.com/emmetbrickhacker/pxt-numconversions)** Knihovna pro převod mezi různými číselnými soustavami.
+    * URL k zkopírování: `https://github.com/emmetbrickhacker/pxt-numconversions`
+
 ## Základní robotické vozítko
 
 ### Rozšíření pro MakeCode
